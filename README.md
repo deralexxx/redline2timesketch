@@ -2,9 +2,13 @@
 Parses the Redline CSV output in a csv that is importable by timesketch
 This is a POC, it is not made to be used in a productive envirenment.
 
-Bugs are expected.
+Bugs are expected. This is not meant to be a best practice project how to create python projects but just get things done.
 
 The end goal is to migrate that to timesketch core as a import module similar to csv and json.
+
+## timesketch
+
+To learn about timesketch, visit: [timesketch.org](http://timesketch.org/)
 
 # redline headers
 ```csv
