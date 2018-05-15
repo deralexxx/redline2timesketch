@@ -5,6 +5,7 @@
 * add .gitignore
 * added README.md
 * added LICENCE
+* add a screesnhot of the result
 
 # 2018-05-14
 
